@@ -1,0 +1,6 @@
+{
+  "name": "OnlineFirst — Digital Studio & Interactive Ecosystem",
+  "description": "OnlineFirst turns concepts into working websites, apps, prototypes, and interactive experiences for businesses, founders, educators, families, and creators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
